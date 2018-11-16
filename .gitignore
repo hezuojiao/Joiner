@@ -1,0 +1,8 @@
+*.idea/
+checkpoints/
+*.pyc
+__pycache__/
+
+# OSX
+.DS_Store
+neural_network.*
